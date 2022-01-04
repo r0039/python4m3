@@ -20,3 +20,5 @@ print(an_int + 3)
 # a float
 # 3 is a literal, meaning it’s actually the number 3 and not a variable with the number 3 assigned to it.
 
+# Floating Point Arithmetic: Issues and Limitations
+# https://docs.python.org/3/tutorial/floatingpoint.html 
