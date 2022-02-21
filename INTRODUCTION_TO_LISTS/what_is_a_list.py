@@ -20,5 +20,10 @@ Notice that:
 """
 
 heights = [61, 70, 67, 64, 65]
+print(heights)
 
-broken_heights = [65, 71, 59, 62] 
+broken_heights = [65, 71, 59, 62]
+print(broken_heights)
+
+list_tring = ["aha", "aho", "ahi"]
+print(list_tring)
